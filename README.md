@@ -1,3 +1,5 @@
-# CS683 Lab 2 - Basic UI
+# Project Portal
+Update this file to reflect new features that you add into the basic project portal app. 
 
-This branch is used for lab assignments
+
+
