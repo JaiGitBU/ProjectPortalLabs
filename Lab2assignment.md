@@ -4,7 +4,7 @@ In this lab, we want to learn basic UI components such as activities, fragments,
 
 Based on the given code, you will need to 
 
-## 1. Modify the Project Model class
+## Modify the Project Model class
 
 Besides the project title and summary, we also want to know other information about the project:
 1. Authors of the project
@@ -15,7 +15,7 @@ Besides the project title and summary, we also want to know other information ab
 
 (Hint: You should modify the Project model class to include the above information, e.g. boolean isFavorite, List<String> links).
 
-## 2. Modify the Project Detail UI
+## Modify the Project Detail UI
 1. Explore the design palette, pick the proper layout(s) and widgets to display above information. 
 2. Add a proper widget to let the user set (or unset) a project as their favorite project. (_Optional_)
 
@@ -25,4 +25,5 @@ It takes two parameters. The boolean parameter isChecked shows the new checked s
 which can be used to set isFavorite value. 
 Check https://developer.android.com/reference/android/widget/CompoundButton.OnCheckedChangeListener for more details.)
 
-## Submit the source code and Lab2report both on github and blackboard. 
+## Submission
+Submit the source code and lab2report to both github and blackboard. 
