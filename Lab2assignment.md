@@ -24,3 +24,5 @@ The callback function defined by this listener is onCheckedChanged(CompoundButto
 It takes two parameters. The boolean parameter isChecked shows the new checked state of the button, 
 which can be used to set isFavorite value. 
 Check https://developer.android.com/reference/android/widget/CompoundButton.OnCheckedChangeListener for more details.)
+
+## Submit the source code and Lab2report both on github and blackboard. 
