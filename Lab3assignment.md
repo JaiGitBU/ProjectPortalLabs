@@ -9,4 +9,4 @@ Based on your previous lab, add the following features:
 ## The AddProject Screen (Optional)
 Add another AddProject screen to allow the user to add a new project and detailed information about that project into the system.
 ## Submission
-Submit the source code and lab2report to both github and blackboard. 
+Submit the source code and lab3report to both github and blackboard. 
