@@ -8,4 +8,5 @@ Based on your previous lab, add the following features:
 2. Connect the EditProject Screen to the Project. For example, add a Edit Button in the ProjectDetail Screen, when clicking on it, it goes to the EditProject screen. Depending on whether you implement the EditProject Screen using Activity or Fragment, you will need use different methods to communicate between the ProjectDetail screen and the EditProject Screen. (Optional)
 ## The AddProject Screen (Optional)
 Add another AddProject screen to allow the user to add a new project and detailed information about that project into the system.
-## Submit both source code and lab3report on github and blackboard. 
+## Submission
+Submit the source code and lab2report to both github and blackboard. 
