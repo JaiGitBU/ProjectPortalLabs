@@ -10,5 +10,6 @@ Modify your lab3 to add the following features:
 ## Show Favorite Projects
 1. Add a show favorite projects only checkbox on the project list screen. 
 2. If it is set, only list all favorite projects from the database. 
+3. This setting should be remembered across different sessions.
 ## Submission
 Submit the source code and Lab4report on both github and blackboard.
