@@ -7,6 +7,7 @@ Modify your lab3 to add the following features:
 4. Modify your previous UI code to list all projects in the database on the ProjectList screen. 
 (If you do not have add project screen, you can pre-insert some records when creating the table.)
 5. Modify your previous UI code to edit a project in the database and add projects into the database (optional).
+6. You can also use any ORMs (such as Room Persistence Library ) if you want. 
 ## Show Favorite Projects
 1. Add a show favorite projects only checkbox (or toggle button or switch) on the project list screen. 
 2. This setting should be remembered across different sessions. 
