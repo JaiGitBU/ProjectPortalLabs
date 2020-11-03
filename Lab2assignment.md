@@ -9,17 +9,17 @@ Based on the given code, you will need to
 Besides the project title and summary, we also want to know other information about the project:
 1. Authors of the project
 2. Project links: (e.g. youtube links, github links, etc)
-3. Is this project your favorite project?
+3. Is this project your favorite project or do you like this project?
 4. Keywords that can be used to search the project
 5. Any additional information you would like to add
 
-(Hint: You should modify the Project model class to include the above information, e.g. boolean isFavorite, List<String> links).
+(Hint: You should modify the Project model class to include the above information, e.g. boolean isFavorite/like, List<String> links, List<String> authors, etc).
 
 ## Modify the Project Detail UI
 1. Explore the design palette, pick the proper layout(s) and widgets to display above information. 
 2. Add a proper widget to let the user set (or unset) a project as their favorite project. (_Optional_)
 
-(Hint: you can use Checkbox or Switch to show isFavorite. To change its value, you can use CompoundButton.OnCheckedChangeListener.
+(Hint: you can use Checkbox or Switch to show isFavorite or the like button. To change its value, you can use CompoundButton.OnCheckedChangeListener.
 The callback function defined by this listener is onCheckedChanged(CompoundButton buttonView, boolean isChecked). 
 It takes two parameters. The boolean parameter isChecked shows the new checked state of the button, 
 which can be used to set isFavorite value. 
