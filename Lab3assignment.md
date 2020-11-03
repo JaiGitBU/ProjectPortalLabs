@@ -7,7 +7,7 @@ Based on your previous lab, add the following features:
 1. Add another AddProject screen to allow the user to add a new project and detailed information about that project into the system. You can implement it using either Activity or Fragment. It will be easier to implement it using Activity.
 2. Connect the AddProject Screen to the Project. For example, add a "+" Button in the ProjectList Screen, when clicking on it, it goes to the AddProject screen. If you implement it using Activity, you can use a simple intent to switch to the AddProject screen. 
 3. On the AddProject screen, you can use a submit button. When it is clicked, the new project should be added, and it will switch back to the ProjectList screen. (_optional_)
-## The EditProject Screen (_Optional)
+## The EditProject Screen (_Optional_)
 1. Add Another screen EditProject using either Activity or Fragment to allow the user to edit the project information. You will need to use EditText widgets so that the project details can be edited.
 2. Connect the EditProject Screen to the Project. For example, add a Edit Button in the ProjectDetail Screen, when clicking on it, it goes to the EditProject screen. Depending on whether you implement the EditProject Screen using Activity or Fragment, you will need use different methods to communicate between the ProjectDetail screen and the EditProject Screen. 
 ## Submission
