@@ -10,7 +10,7 @@ Modify your lab3 to add the following features:
 6. You can also use any ORMs (such as Room Persistence Library ) if you want. 
 ## Show Favorite Projects
 1. Add a show favorite projects only checkbox (or toggle button or switch) on the project list screen. 
-2. This setting should be remembered across different sessions. 
+2. This setting (whether it will show only favorite projects) should be stored into and received from the shared preferences so that it can be remembered across different sessions. 
 3. If it is set, only list all favorite projects from the database. (_optional_)
 ## Submission
 Submit the source code and Lab4report on both github and blackboard.
