@@ -1,5 +1,5 @@
 # Lab 5
-Modify your lab4 to implement the following features:
+Modify your lab4 to implement the following features. You can choose either 1 or 2.
 1. Implement Database Operations in AsyncTasks. 
 Module 5 shows you an example of using AsyncTask to list projects. Implement database operations such as updates in AsyncTask as well. 
 2. Implement Database updates in an Intent Service.
